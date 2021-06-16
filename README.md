@@ -1,2 +1,2 @@
 
-<h1 style="font-size: 2px;">A simple laravel todo list for learning</h1>
+<h1>A simple laravel todo list for learning</h1>
